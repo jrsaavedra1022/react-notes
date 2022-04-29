@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-notes/static/css/main.e2be3d97.css",
+    "main.js": "/react-notes/static/js/main.48fbe6b2.js",
+    "index.html": "/react-notes/index.html",
+    "static/media/delete.svg": "/react-notes/static/media/delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
+    "static/media/check.svg": "/react-notes/static/media/check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
+    "main.e2be3d97.css.map": "/react-notes/static/css/main.e2be3d97.css.map",
+    "main.48fbe6b2.js.map": "/react-notes/static/js/main.48fbe6b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2be3d97.css",
+    "static/js/main.48fbe6b2.js"
+  ]
+}
